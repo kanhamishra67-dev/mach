@@ -7,6 +7,7 @@ owdn
 wdovnjsdvn
 wdvjnwd
 njowdvno
+<<<<<<< HEAD
 line manage
 3 4 5 
 manga
@@ -23,3 +24,7 @@ line
 line
 >>>>>>> main
 >>>>>>> b2
+=======
+
+mohan judaro 
+>>>>>>> branchhome
