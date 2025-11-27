@@ -1,11 +1,33 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+adjfb
+dsdjn
+owdn
+wdovnjsdvn
+wdvjnwd
+njowdvno
+<<<<<<< HEAD
+line manage
+3 4 5 
+manga
+=======
+>>>>>>> b2
+line 1
+line2 
+line 3
+line 4 
+line 5
+<<<<<<< HEAD
+line
+=======
+line
+>>>>>>> main
+>>>>>>> b2
+=======
 
-
-
-
-
-
-
-
+mohan judaro 
+>>>>>>> branchhome
 adjfb
 dsdjn
 owdn
